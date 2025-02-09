@@ -75,5 +75,6 @@ class Node{
         ll.deleteAtPos(3);
         System.out.println();
         ll.display();
+        
     }
 }
